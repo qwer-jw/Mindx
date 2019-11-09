@@ -1,0 +1,13 @@
+#words {
+    margin: auto;
+    text-align: center;
+    background-color: gainsboro;
+    width: 1000px;
+}
+#picture {
+    width:1000px;
+    height:600px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
