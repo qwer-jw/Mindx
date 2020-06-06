@@ -1,13 +1,171 @@
-#words {
-    margin: auto;
-    text-align: center;
-    background-color: gainsboro;
-    width: 1000px;
+#Title {
+    display: inline-block;
+    color: White;
+    font-family:'Courier New';
+    font-size:40px;
+    position: absolute;
+    left: 145px;
+    top: 40px
 }
-#picture {
-    width:1000px;
-    height:600px;
+#logo{
+    display: inline-block;
+    position: absolute;
+    left: 60px;
+    top: 55px;
+}
+#head1{
+    background-color:#292828;
+    height: 145px;
+    width: 100%;
+}
+#head2{
+    background-color:#4264ad ;
+    height: 70px;
+    width: 100%;
+}
+#title2 {
+    display: inline-block;
+    color: White;
+    font-size:40px;
+    position: absolute;
+    left: 145px;
+    top: 130px;
+}
+#four
+{
+    list-style-type: none;
+}
+
+.list
+{
+    display: inline-block;
+    margin-right: 20px;
+    font-size: 1.7em;
+    position: relative;
+    left: 1000px;
+    top: 90px;
+    color: white;
+}
+.list1
+{
+    display: inline-block;
+    margin-top: 30px;
+    margin-right: 7px;
+    font-size: 0.9em;
+    position: relative;
+    left: 100px;
+    color: white;
+}
+.footer{
+    font-size: 0.9em;
+    position: relative;
+    left: 140px;
+    top: 30px;
+    color: white;
+}
+
+.article1{
+    width: 750px;
+    margin-left: 200px;
+    margin-top: 50px;
+    font-size: 25px;
+}
+aside{
+    margin-top: 50px;
+    margin-left:50px;
+    display: inline-block;
+    vertical-align: top;
+    text-align: justify;
+    position: relative;
+    width: 235px;
+    background-color: #4264ad;
+    box-shadow: 0px 2px 5px #1c1a19;
+    border-radius: 5px;
+    padding: 10px;
+    color: white;
+    font-size: 0.9em;
+}
+.profile{
     display: block;
     margin-left: auto;
     margin-right: auto;
+    width: 120px;
+    border: 1px solid #181818;
+}
+.image{
+    margin-top: 50px;
+    margin-left:50px;
+    width: 250px;
+}
+.flex-container {
+    display: flex;
+    justify-content: center;
+  }
+
+a{
+    color: #445cc9;
+    text-decoration:none
+}
+.SNS{
+    width: 50px;
+    height: 50px;
+    margin-left:5px;
+    cursor: pointer;
+}
+.foot{
+    background-color: black;
+    height: 170px;
+}
+#container{
+    width: 950px;
+    margin-left: 300px;
+    margin-top: 50px;
+    font-size:25px;
+}
+#fourh{
+    color: white;
+}
+
+
+
+
+.listimg{
+    width: 250px;
+    height: 200px;
+}
+.texts{
+    color: black;
+    text-decoration:none;
+}
+.wrap{
+    margin-left: 140px;
+    margin-top: 70px;
+    width: 0px;
+    height: 400px;
+
+}
+.titlelink{
+    
+    margin-left: 300px;
+    margin-top: 20px;
+    width: 600px;
+    height: 0px;
+    font-size: 28px;
+    font-family: sans-serif;
+}
+.description{
+    display: inline-block;
+    vertical-align: top;
+    text-align: justify;
+    position: relative;
+    margin-left: 300px;
+    margin-top: 0px;
+    width: 500px;
+    height: 0px;
+    font-size: 13px;
+    font-family: sans-serif;
+}
+.postimg{
+    margin-top: 0px;
+
 }
