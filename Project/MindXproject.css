@@ -1,0 +1,14 @@
+body{
+    background-color: black;
+}
+#cauhoi{
+    color: white;
+    text-align: center;
+    font-size: 50px;
+}
+#score{
+    color: white;
+}
+.answers{
+    color: white;
+}
